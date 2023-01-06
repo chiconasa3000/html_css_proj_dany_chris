@@ -1,0 +1,14 @@
+#section{
+    position:relative;
+  }
+  
+  #navbar {
+    position: fixed;
+    top: 0;
+  }
+  
+  @media (max-width: 100px){
+    #section{
+      font-size: 10px;
+    }
+  }
